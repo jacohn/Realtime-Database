@@ -13,6 +13,7 @@ import { initializeApp } from "firebase/app";
 const firebaseConfig = {
 	apiKey: "AIzaSyCIPQ7mYVu5AgsvZKBuSUxvmwwvX0qa0pA",
 	authDomain: "courso-19d5c.firebaseapp.com",
+	databaseURL: "https://courso-19d5c-default-rtdb.firebaseio.com",
 	projectId: "courso-19d5c",
 	storageBucket: "courso-19d5c.appspot.com",
 	messagingSenderId: "1034126783799",
